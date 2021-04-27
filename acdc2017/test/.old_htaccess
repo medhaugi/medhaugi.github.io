@@ -1,5 +1,0 @@
-AuthType Basic
-AuthName "Password Protected Area"
-AuthUserFile /data/www/kurs/acdc/acdc2017/.htpasswd
-Require valid-user
-
