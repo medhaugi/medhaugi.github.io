@@ -1,0 +1,5 @@
+AuthName "Members Only" 
+AuthType Basic
+AuthUserFile /web_disk/iaceth/staff/medhaugi/acdc2017/.htpasswd
+require valid-user
+
